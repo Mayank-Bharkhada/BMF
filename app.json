@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "BMF",
+    "slug": "BMF",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bmf1.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/bmf1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bmf1.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.mayank14101.BMF"
+    },
+    "web": {
+      "favicon": "./assets/bmf1,png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a0a031f6-b232-4dfd-b9ca-553ead15e881"
+      }
+    }
+  }
+}
